@@ -82,8 +82,8 @@ Integrating intelligent components directly into client applications. Connects l
 ## 📊 Developer Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xavier99-pixel&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Raja's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier99-pixel&theme=tokyonight" width="48%" alt="Raja's Commit Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xavier99-pixel&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="siri's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier99-pixel&theme=tokyonight" width="48%" alt="siri's Commit Streak" />
 </p>
 
 <p align="center">
