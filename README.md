@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me & Brand Story
-I am an ambitious **Artificial Intelligence & Data Science student** stepping into the industry as an Intern. I bridge the gap between heavy academic engineering theories and live cloud deployments. 
+I am an ambitious **Artificial Intelligence & Machine Learning student** stepping into the industry as an Intern. I bridge the gap between heavy academic engineering theories and live cloud deployments. 
 
 My approach to engineering is **playful yet technical**—I love breaking down complex AI models, but I take building scalable, production-ready systems seriously. 
 
